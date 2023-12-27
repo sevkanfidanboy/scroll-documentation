@@ -16,6 +16,6 @@ npm install && npm run dev
 - All articles are markdown and stored in `/src/content/docs/`.
 - Navigation is JSON in `/src/config/sidebar.ts`
 
-## Credits
+## Credits Detail
 
 - Special thanks to the Chainlink team whose documentation we forked. Their repo is available [here](https://github.com/smartcontractkit/documentation) and viewable at [https://docs.chain.link/](https://docs.chain.link/).
